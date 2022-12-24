@@ -21,7 +21,6 @@ const Card = ({item}) => {
       </div>
     </Link>
   )
-  //53.10
 }
 
 export default Card;
