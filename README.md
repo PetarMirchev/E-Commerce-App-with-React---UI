@@ -10,7 +10,7 @@ E-Commerce App with React - UI
 
 //npm install @mui/icons-material
 
-( icon link --> https://mui.com/material-ui/material-icons/?query=de)
+( icon link --> https://mui.com/material-ui/material-icons/)
 
 ![gitShop1](https://user-images.githubusercontent.com/73035495/209439236-5d68c54c-9d2d-4eaa-810c-9c54b0e2371f.jpg)
 ![gitShop2](https://user-images.githubusercontent.com/73035495/209439238-bb0a3a63-8672-43f4-9e23-55adf7a2d4cc.jpg)
