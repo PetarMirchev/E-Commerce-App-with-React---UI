@@ -1,0 +1,38 @@
+.products{
+    padding: 30px 50px;
+    display: flex;
+
+    .left{
+        flex: 1;
+        position: sticky; //fix side bar for scrolling
+        height: 100%; //fix side bar for scrolling
+        top: 50px; //fix side bar for scrolling after 50px 
+
+        .filterItem{
+            margin-bottom: 30px;
+
+            h2{
+                font-weight: 400;
+                margin-bottom: 20px;
+            }
+
+            .inputItem{
+                margin-bottom: 10px;
+
+                label{
+                 margin-left: 10px;   
+                }
+            }
+        }
+    }
+    .right{
+        flex: 3;
+
+        .catImg{
+            width: 100%;
+            height: 330px;
+            object-fit: cover;
+            margin-bottom: 30px;
+        }
+    }
+}
